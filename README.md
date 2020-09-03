@@ -14,8 +14,8 @@ This seems dumb as why wouldnt someone just choose the best card everytime!?
 
 Do you see how this works?!  
 
-Example:
-ROUND 1: User chooses a card - lets choose a JACK, Computer gets a randomly generated card.
+Example:  
+ROUND 1: User chooses a card - lets choose a JACK, Computer gets a randomly generated card.  
 ROUND 2: User gets a randomly generated card, Computer gets the JACK!  
 
 Using this logic the User needs to be careful on which card he chooses becasue in the next hand the Computer will get that same card! 
